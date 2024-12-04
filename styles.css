@@ -1,0 +1,38 @@
+body{
+    background: tan;
+    font-family: "Brawler", serif;
+}
+
+.headercontainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    font-size: 50px;
+    font-family: "Old Standard TT", serif;
+ }
+
+h1{
+    text-align: center;
+    padding: 20px;
+    background: url(images/wojciech-paczes-OWmq7S7QEj0-unsplash.jpg)
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+nav li{
+    display: inline-block;
+
+}
+ 
+main{
+    display: flex;
+}
+footer{
+text-align: center;
+
+}
+
+    
